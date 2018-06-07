@@ -10,6 +10,7 @@ body {
     padding-top: 30px;
 }
 .footer {
+    color: black;
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -17,4 +18,10 @@ body {
     height: 90px;
     background-color: #fff;
     padding-top: 20px;
+}
+
+#logo{
+    color: black;
+    font-size: 4em;
+    padding-top: 80px;
 }

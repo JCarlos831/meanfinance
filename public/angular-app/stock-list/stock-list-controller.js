@@ -6,5 +6,4 @@ function StocksController(stockDataFactory) {
     stockDataFactory.stockList().then(function(response) {
         console.log(response);
         vm.stocks = response;
-    });
-}
+    })}
